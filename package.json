@@ -1,0 +1,16 @@
+{
+  "name": "jslicense-isc",
+  "description": "the ISC License",
+  "version": "0.0.0-prerelease",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
+  "bugs": "https://github.com/jslicense/jslicense-isc/issues",
+  "homepage": "https://jslicense.github.io",
+  "keywords": [
+    "ISC",
+    "jslicense",
+    "license"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": "jslicense/isc"
+}
