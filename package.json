@@ -1,7 +1,7 @@
 {
   "name": "jslicense-isc",
   "description": "the ISC License in jslicense format",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
   "bugs": "https://github.com/jslicense/jslicense-isc/issues",
   "homepage": "https://jslicense.github.io",
